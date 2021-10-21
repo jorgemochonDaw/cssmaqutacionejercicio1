@@ -1,3 +1,20 @@
 #titulo-header {
     text-align: center;
 }
+
+.medidas-secciones {
+    width: 50%;
+    margin-left: 30rem
+}
+
+.display-flex {
+    display: flex;
+}
+
+.mt1rem {
+    margin-top: 1rem;
+}
+
+.ml2rem {
+    margin-left: 2rem;
+}
