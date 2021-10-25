@@ -1,0 +1,49 @@
+body {
+    background-color: #fff4b9;
+    color: #4b17ae;
+}
+
+hr {
+    margin-left: 40rem;
+    width: 30%;
+    border-top: 0.25rem solid #4b17ae;
+}
+
+h2 {
+    background-color: #ffef97;
+    width: 100%;
+}
+
+section {
+    width: 80rem;
+    margin-left: 20rem;
+}
+
+
+#header {
+    background-color: #ffe25e;
+}
+
+#header h1 {
+    text-align: center;
+    color: #4b17ae;
+    text-transform: uppercase;
+}
+
+.flex {
+    display: flex;
+}
+
+.posicionar-img {
+    position: relative;
+    top: 3.1rem;
+}
+
+.pstr3 {
+    position: relative;
+    right: 3rem;
+}
+
+#footer {
+    margin-left: 47rem;
+}
